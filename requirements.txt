@@ -40,4 +40,4 @@ tenacity
 uv
 uvloop
 xattr
-yt-dlp=2024.12.6
+yt-dlp==2024.12.6
